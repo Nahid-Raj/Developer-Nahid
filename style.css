@@ -50,6 +50,9 @@ hr{
 }
 .secound-containar{
     display: flex;
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
 .secound-step{
     width: 50%;
