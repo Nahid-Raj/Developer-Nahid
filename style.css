@@ -29,6 +29,7 @@ a{
     padding: 5px 20px;
     border-radius: 10px;
     text-decoration: none;
+    color: white;
 }
 .containar-2{
     display: flex;
